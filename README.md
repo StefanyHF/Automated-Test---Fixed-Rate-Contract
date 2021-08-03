@@ -1,7 +1,6 @@
 
-# Deel QA Assignment
-
-This assignment is intended to be used in the Deel QA Automation Engineer hiring process.
+# Automated Test - Fixed Rate Contract
+This test automates the creation of a fixed rate contract.
 
 # Requisites
 NodeJS (version > 12)
